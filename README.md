@@ -1,4 +1,4 @@
-# cat-services-api
+# webflux-app
 Resources::
 //https://spring.io/blog/2018/12/07/reactive-programming-and-relational-databases
 //https://docs.spring.io/spring-framework/docs/5.0.0.M5/spring-framework-reference/html/web-reactive.html
