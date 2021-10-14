@@ -5,6 +5,10 @@ Resources::
 //https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html#webflux-exception-handler
 //https://docs.spring.io/spring-data/r2dbc/docs/current-SNAPSHOT/reference/html/#r2dbc.entityoperations
 
+
+https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html
+https://projectreactor.io/docs/core/release/reference/index.html#getting-started-introducing-reactor
+
 why R2DBC was created is the need for a non-blocking application stack to handle concurrency with a small number of threads 
 and scale with fewer hardware resources. This need cannot be satisfied by reusing standardized relational database access 
 APIs — namely JDBC –- as JDBC is a fully blocking API. Attempts to compensate for blocking behavior with a ThreadPool are of 
